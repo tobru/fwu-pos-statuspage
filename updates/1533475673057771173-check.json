@@ -1,0 +1,1 @@
+[{"title":"Example HTTP","endpoint":"http://tobru.ch","timestamp":1533475671987450619,"times":[{"rtt":1070091172}],"healthy":true},{"title":"Example TCP","endpoint":"tobru.ch:80","timestamp":1533475671987383341,"times":[{"rtt":23182350}],"healthy":true}]
