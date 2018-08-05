@@ -27,7 +27,8 @@ checkup.storage = (function() {
 
 	// setup prepares this storage unit to operate.
 	this.setup = function(cfg) {
-		url = cfg.url;
+		//url = cfg.url;
+		url = 'https://tobru.github.io/fwu-pos-statuspage';
 	};
 
 	// getChecksWithin gets all the checks within timeframe as a unit
